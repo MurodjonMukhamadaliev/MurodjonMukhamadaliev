@@ -1,9 +1,15 @@
-### Hi there 👋, Murodjon Mukhammadaliev
-#### Software Development
 ![Software Development](https://media-exp1.licdn.com/dms/image/D4E16AQFGBDxvTZNKSw/profile-displaybackgroundimage-shrink_350_1400/0/1664553056918?e=1671667200&v=beta&t=TZyo1e3VY5D4Dizfa6NWcnDkf2I9J8L2mY974OThbxs)
+
+# Murodjon Mukhammadaliev
 I'm Murodjon Mukhammadaliev from Uzbekistan and I'm a Software Engineer. I really enjoy learning languages and frameworks like Java and Spring!
 
-Skills: Java / Spring / Spring Boot/ Microservices / Docker/PostgreSQL ...
+## Skills and Experience
+* 💻 Java
+* 💻 Spring
+* 💻 Spring Boot
+* 💻 Microservices
+* 💻 Docker
+* 💻 ... so on
 
 - 🔭 I’m currently working on EPAM Systems 
 
